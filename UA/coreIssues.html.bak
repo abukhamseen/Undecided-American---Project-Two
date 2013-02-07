@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>UNDECIDED AMERICA</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="1024" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="21%" align="left" valign="top"><a href="index.html"><img src="images/logo.jpg" width="214" height="186" border="none"/></a></td>
+        <td width="46%" align="left" valign="top"><img src="images/middlephoto_coreIssues.jpg" width="481" height="186" /></td>
+        <td width="33%" align="left" valign="top"><img src="images/middlephoto_coreIssues2.jpg" width="301" height="186" /></td>
+      </tr>
+    </table>
+      <table width="996" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="214" valign="top"><table width="100%" border="0" cellspacing="1" cellpadding="0">
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td><a href="candidates.html"><img src="images/candidates.jpg" width="206" height="27" border="none" /></a></td>
+            </tr>
+            <tr>
+              <td><a href="coreIssues.html"><img src="images/coreIssues.jpg" width="206" height="27" border="none" /></a></td>
+            </tr>
+            <tr>
+              <td><a href="register.html"><img src="images/register.jpg" width="206" height="27" border="none"/></a></td>
+            </tr>
+            <tr>
+              <td><a href="donate.html"><img src="images/donate.jpg" width="206" height="27" border="none"/></a></td>
+            </tr>
+            <tr>
+              <td><a href="about.html"><img src="images/about.jpg" width="206" height="27" border="none"/></a></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+          </table></td>
+          <td valign="top"><table width="100%" border="0" cellspacing="1" cellpadding="0">
+            <tr>
+              <td width="480" bgcolor="#EE1C25"><span class="titleText">CORE ISSUES</span></td>
+              <td bgcolor="#2E3192"><span class="titleText">Source :2012election.procon.org</span></td>
+              </tr>
+          </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td valign="top" class="normalText"><p>2012 Presidential Candidate Positions on 75 Issues ProCon.org. "2012 Presidential Candidate Positions on 75 Issues." ( Positions are categorized as Pro (Yes), Con (No), Not Clearly Pro or Con (NC), or None Found (?). 
+                The questions are accompanied with responses from Obama of the democratic part <span class="blueText"> [ Obama (D) ] </span>and Romney of the republican party <span class="redText">[ Romney (R) ]</span></p>
+                <p><span class="greyText">Abortion |</span> Should abortion remain a legal option in America?<span class="blueText"> [ Obama (D)-Pro ]</span><span class="redText"> [ Romney (R)-Con ]</span> | Should parental consent be required for pregnant minors to have abortions?<span class="blueText"> [ Obama (D)-NC ]</span> <span class="redText">[ Romney (R)-Pro ] </span></p>
+                <p><span class="greyText">Alcohol |</span> Should the minimum legal drinking age be lowered from 21 to a younger age?<span class="blueText"> [ Obama (D)-Con ]</span><span class="redText"> [ Romney (R)-? ]</span></p>
+                <p><span class="greyText">China |</span> Is China an economic or military threat to the US?<span class="blueText"> [ Obama (D)-? ]</span><span class="redText"> [ Romney (R)-Pro ]</span></p></td>
+              </tr>
+          </table></td>
+        </tr>
+    </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td align="center" class="footerText">&nbsp;</td>
+        </tr>
+        <tr>
+          <td align="center" class="footerText">undecidedamerican.com all content and graphics belong to owners, this is melrey a portal page to help direct voters to conent with links, refrences and data   - 2012 </td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</html>

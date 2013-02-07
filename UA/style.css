@@ -1,0 +1,68 @@
+.titleText {
+	font-family: Lintel;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FFF;
+	line-height: normal;
+	padding: 4px;
+}
+.normalText {
+	font-size: 11px;
+	font-weight: normal;
+	color: #333;
+	font-family: Tahoma, Geneva, sans-serif;
+	text-align: justify;
+}
+.greyText {
+	font-size: 11px;
+	font-weight: normal;
+	color: #999;
+	font-family: Tahoma, Geneva, sans-serif;
+	
+}
+.redText {
+	font-size: 11px;
+	font-weight: normal;
+	color: #C00;
+	font-family: Tahoma, Geneva, sans-serif;	
+	
+}
+.blueText {
+	font-size: 11px;
+	font-weight: normal;
+	color: #2e3192;
+	font-family: Tahoma, Geneva, sans-serif;	
+
+}
+.footerText {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #2e3192;
+}
+.footerTextRed {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #C00;
+}.day {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 50px;
+	font-style: normal;
+	font-weight: lighter;
+}
+.smallText {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: lighter;
+}
+
+.formText {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: lighter;
+}
+
